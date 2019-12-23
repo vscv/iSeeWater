@@ -30,21 +30,15 @@ cctv_info = [
 
 # ai map (old version)
 url_1 = 'http://140.110.16.68/aimap/todo/api/v1.0/tasks'
-url_2 = 'http://140.110.16.68/aimap/todo/api/v1.1/insertRec2'
-url_3 = 'http://140.110.16.68/aimap/todo/api/v1.1/insertRec3'
-
-url_4 = 'https://roamkgx409.execute-api.us-east-2.amazonaws.com/default/wra_2019_post'
-url_5 = 'https://8yjdd6v9l0.execute-api.ap-east-1.amazonaws.com/default/wra2019'
 
 #Post新增單一大檔案處理功能 2019-08-23
 """
-     https://3c0gda1ige.execute-api.ap-east-1.amazonaws.com/default/wra2019_longData
+     https://3c0gda1ige.execute-api.ap-east-1.amazonaws.com/default/
     """
-url_6 = 'https://3c0gda1ige.execute-api.ap-east-1.amazonaws.com/default/wra2019_longData'
+
 
 #bad_url = [73, 81, 82, 122, 123, 699, 750, 751, 835, 941, 1035, 1061, 1106, 1121, 1129, 1130, 1131, 1132, 1170, 1171, 1174, 1179, 1182, 1183, 1184, 1194, 1201, 1217]
 
-url_nowred = 'https://8yjdd6v9l0.execute-api.ap-east-1.amazonaws.com/default/wra_nowred'
 
 
 #bad_link = ['thbCCTV-54-0010-322-02',
