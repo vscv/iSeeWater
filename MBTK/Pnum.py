@@ -1,0 +1,9 @@
+P1=0
+P2=0
+P3=0
+P4=0
+P5=0
+P6=0
+flag_index=1
+rain_hh=40
+rain_mh=20
